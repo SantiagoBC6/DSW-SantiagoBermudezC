@@ -1,0 +1,144 @@
+#margen_afuera {
+    position: relative;
+    width: 1000px;
+    height: 800px;
+    border: 5px solid #005883;
+    border-radius: 45px;
+} 
+        
+
+#margen{
+    width: 950px;
+    height: 750px;
+    border: 5px solid #F47920;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+        
+nav {
+    position: relative;
+    width: 950px;
+    height: 80px;
+    border-radius: 15px 15px 0px 0px;
+
+}      
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: white !important;
+}
+
+
+.menu{
+    float:left;
+    width: 160px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 30px 0px 0px 0px;
+    background-color: #F47920;  
+}
+
+
+header {
+    position: relative;
+    width: 950px;
+    height: 150px;
+} 
+
+        
+#titulo{
+    float: left;
+    width: 450px;
+    height: 50px;
+    border: 1px solid #005883;
+    background-color: #005883;
+    color: white;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#logo{
+    float: left;
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 190px;
+}
+
+section {
+    position: relative;
+    width: 950px;
+    height: 450px;
+} 
+
+aside {
+    float: right;
+    width: 200px;
+    height: 430px;
+    margin-top: 10px;
+    margin-right: 10px;          
+}
+
+#login {
+    float: right;
+    width: 180px;
+    height: 140px;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+article {
+    float: left;
+    width: 350px;
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    overflow: auto;
+}
+
+footer {
+    position: relative;
+    width: 950px;
+    height: 63px;
+    color: #005883;
+    font-weight: bold;
+} 
+
+.txt-concepto{
+    float: left;
+    width: 500px;
+    height: 350px;
+    margin-left: 10px;
+    overflow: auto;
+    text-align: left;
+}
+
+.txt-concepto2{
+    float: left;
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+    overflow: auto;
+    text-align: left;
+}
+
+.txtGreen{
+    color: gray;
+}
+.img-concepto{
+   float: left;
+   width: 355px;
+   height: 350px;
+   margin-left: 20px;
+}
+
+.secConcepto{
+    float: left;
+    width: 900px;
+    margin-bottom: 30px;
+}
+.twitter{
+    float: left;
+    margin-left: 20px;
+}
